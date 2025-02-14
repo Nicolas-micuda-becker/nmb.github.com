@@ -149,7 +149,7 @@ section{
             left: 0;
             top : 0;
             z-index: -1;
-            clip-path: polygon(0 0, 75% 0, 92% 100%, 0% 100%); //modifier pour match avec le .png
+            clip-path: polygon(0 0, 55% 0, 92% 100%, 0% 100%); //modifier pour match avec le .png
         }
         .image {
             width: 250px;
@@ -160,7 +160,7 @@ section{
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-left: 60%;
+            margin-left: 55%;
             margin-top:-50%;
             img {
                 width: 100%;
